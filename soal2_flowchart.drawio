@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T23:06:41.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="zQTxs3HjvENopIUvLD2X" version="22.0.8" type="google">
+<mxfile host="app.diagrams.net" modified="2023-11-08T23:18:48.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="pqAenqEa5_7Y8eIFpOQf" version="22.0.8" type="google">
   <diagram name="Page-1" id="7eK9PkGe-XitMcgzCga3">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="sz-eWXWZzjL4Izz0eyTB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sz-eWXWZzjL4Izz0eyTB-4" target="sz-eWXWZzjL4Izz0eyTB-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sz-eWXWZzjL4Izz0eyTB-4" value="&amp;nbsp;faktor = 1&lt;br&gt;angka = a" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="sz-eWXWZzjL4Izz0eyTB-4" value="&amp;nbsp;faktor = 1&lt;br&gt;n = number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="50" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sz-eWXWZzjL4Izz0eyTB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sz-eWXWZzjL4Izz0eyTB-6" target="sz-eWXWZzjL4Izz0eyTB-9">
