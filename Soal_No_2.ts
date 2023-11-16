@@ -1,4 +1,4 @@
-function cekKondisiLampu(n) {
+function cekKondisiLampu(n: number): void {
   let faktor = 1;
   for (let i = 1; i < n; i++) {
     if (n % i === 0) {
